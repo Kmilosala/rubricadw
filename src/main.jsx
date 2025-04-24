@@ -1,8 +1,8 @@
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
-import './assets/css/index.css';
+import './assets/index.css';
 import Home from './pages/home';
-import Equipos from './pages/Equipos';
+import Equipos from './pages/equipos';
 import Navbar from './pages/navbar';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Pilotos from './pages/pilotos';

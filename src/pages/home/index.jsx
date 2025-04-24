@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import "../../assets/css/index.css";
+import "../../assets/index.css";
 
 function Home() {
   const [count, setCount] = useState(0);
